@@ -1,4 +1,4 @@
-P = ccwc.o
+P = ccwc
 OBJECTS =
 CFLAGS = -g -Wall -O0
 LDLIBS =
